@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "0g7AksL6rwMFw68a0QgUY85hWgWfFpLoIh4l6Nk/cLHH9yKOZkQ0x10eyD3lzHVHOYqM+RUCpw5I4/d0DpMeww==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\beech\\source\\repos\\PokemonBattle\\PokemonBattle\\PokemonBattle.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\beech\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,16 @@
+C:\Users\beech\source\repos\PokemonBattle\PokemonBattle\bin\Debug\net5.0\PokemonBattle.exe
+C:\Users\beech\source\repos\PokemonBattle\PokemonBattle\bin\Debug\net5.0\PokemonBattle.deps.json
+C:\Users\beech\source\repos\PokemonBattle\PokemonBattle\bin\Debug\net5.0\PokemonBattle.runtimeconfig.json
+C:\Users\beech\source\repos\PokemonBattle\PokemonBattle\bin\Debug\net5.0\PokemonBattle.runtimeconfig.dev.json
+C:\Users\beech\source\repos\PokemonBattle\PokemonBattle\bin\Debug\net5.0\PokemonBattle.dll
+C:\Users\beech\source\repos\PokemonBattle\PokemonBattle\bin\Debug\net5.0\ref\PokemonBattle.dll
+C:\Users\beech\source\repos\PokemonBattle\PokemonBattle\bin\Debug\net5.0\PokemonBattle.pdb
+C:\Users\beech\source\repos\PokemonBattle\PokemonBattle\obj\Debug\net5.0\PokemonBattle.csproj.AssemblyReference.cache
+C:\Users\beech\source\repos\PokemonBattle\PokemonBattle\obj\Debug\net5.0\PokemonBattle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\beech\source\repos\PokemonBattle\PokemonBattle\obj\Debug\net5.0\PokemonBattle.AssemblyInfoInputs.cache
+C:\Users\beech\source\repos\PokemonBattle\PokemonBattle\obj\Debug\net5.0\PokemonBattle.AssemblyInfo.cs
+C:\Users\beech\source\repos\PokemonBattle\PokemonBattle\obj\Debug\net5.0\PokemonBattle.csproj.CoreCompileInputs.cache
+C:\Users\beech\source\repos\PokemonBattle\PokemonBattle\obj\Debug\net5.0\PokemonBattle.dll
+C:\Users\beech\source\repos\PokemonBattle\PokemonBattle\obj\Debug\net5.0\ref\PokemonBattle.dll
+C:\Users\beech\source\repos\PokemonBattle\PokemonBattle\obj\Debug\net5.0\PokemonBattle.pdb
+C:\Users\beech\source\repos\PokemonBattle\PokemonBattle\obj\Debug\net5.0\PokemonBattle.genruntimeconfig.cache
